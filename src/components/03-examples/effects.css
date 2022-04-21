@@ -1,0 +1,20 @@
+body {
+  padding: 70px;
+}
+
+input {
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.blockquote {
+  text-align: right;
+}
+
+.blockquote footer {
+  color: gray;
+  font-size: 18px;
+}
